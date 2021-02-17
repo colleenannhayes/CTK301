@@ -1,0 +1,53 @@
+.CTK {
+ color: #FF0000;
+ background-color: #FFCCFF;
+}
+
+.art {
+ color: #666699;
+}
+
+.phone {
+ color: #FF0000;
+}
+
+.director {
+ color: #FF0000;
+}
+
+.degrees {
+ color: #FF0000;
+}
+
+.CTK1 {
+ color: #666699;
+}
+
+#isu {
+ color: #FFCCFF;
+}
+
+#tab {
+ color: #FF0000;
+}
+
+a:hover {
+ color: #FFFF66;
+ text-decoration: underline;
+}
+
+a:visited {
+ color: #FF0000;
+}
+
+h1 {
+  color: #FF0000;
+  background-color: #FFCCFF;
+}
+h2 {
+  color: #666699;
+}
+
+b {
+  color: #FF0000;
+}
