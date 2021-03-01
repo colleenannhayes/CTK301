@@ -1,0 +1,79 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-image: url(images/patch.jpg);
+  background-repeat: repeat;
+  background-position: center center;
+}
+
+header {
+  color: #FF5733;
+  font-style: italic;
+  font-weight: normal;
+  text-align: justify;
+}
+.CTK {
+ color: #FF0000;
+ background-color: #FFCCFF;
+}
+
+.art {
+ color: #666699;
+}
+
+.phone {
+ color: #FF0000;
+}
+
+.director {
+ color: #FF0000;
+}
+
+.degrees {
+ color: #FF0000;
+}
+
+.CTK1 {
+ color: #666699;
+}
+
+.imgbox {
+  border: 20px solid #000000;
+  padding: 10px;
+  background-color: #FFFFFF;
+  margin:20px 20px 20px 20px;
+  width: 200px;
+}
+
+#isu {
+ color: #FFCCFF;
+}
+
+#tab {
+ color: #FF0000;
+}
+
+a:link {
+ color: #FF0000;
+ text-decoration: underline;
+}
+
+a:hover {
+ color: #FFFF66;
+ text-decoration: underline;
+}
+
+a:visited {
+ color: #FF0000;
+}
+
+h1 {
+  color: #FF0000;
+  background-color: #FFCCFF;
+}
+h2 {
+  color: #666699;
+}
+
+b {
+  color: #FF0000;
+}
